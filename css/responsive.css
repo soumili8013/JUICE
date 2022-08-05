@@ -1,0 +1,27 @@
+
+@media (max-width: 575px){
+
+
+    header{
+        display: none;
+    }
+/* 2nd nav */
+
+.sec-nav{
+
+    margin-top: 0;
+}
+.nav-content{
+    margin-top: 10%;
+}
+
+/* banner */
+.banner>img{
+    margin-top: 30%;
+}
+
+    /* footer */
+    .ft-img >img{
+        margin: 1%;
+    }
+}

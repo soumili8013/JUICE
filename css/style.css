@@ -1,0 +1,231 @@
+body{
+    margin: 0;
+    font-family: 'Assistant', sans-serif;
+    cursor: pointer;
+}
+/* upper nav */
+header{
+    background-color: #70b046;
+    z-index: 111111;
+    position: relative;
+}
+.upnav{
+    font-size: 20px;
+    float: left;
+}
+.gift{
+    width: 140px;
+    font-size: 20px;
+}
+.gifft li a{
+    color: aliceblue;
+}
+.gifft li a:hover{
+    opacity:0.5 ;
+    color: antiquewhite;
+    }
+.gift >.fa{
+    float: left;
+    font-size: 35px;
+    padding: 0 5%;
+    color: aliceblue;
+}
+.upnav li{
+    margin: 0 auto;
+}
+.upnav li a{
+color: aliceblue;
+}
+.upnav li a:hover{
+opacity:0.5 ;
+color: antiquewhite;
+}
+
+/* 2nd nav */
+.sec-nav{
+    background-color: #fff;
+  
+}
+.brand >img{
+    width: 20%;
+}
+.nav-content{
+    padding-top: 5%;
+}
+/* banner */
+
+.banner{
+    background-image: url(../images/banner.jpg);
+    height: 550px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-attachment: fixed;
+    color: #eeffe3;
+    font-size: 2rem;
+}
+.banner>img{
+    margin-top: 10%;
+}
+
+/* Why Choose Us */
+
+
+.Choose {
+background-color: #f3f4f9;
+margin-top: 5%;
+
+}
+.why-img>img{
+    width: 100%;
+}
+.why{
+    text-align: left;
+
+}
+.why p{
+    
+    color: #aaacad;
+}
+.us h2{
+    padding: 4%;
+    font-size: 2.1em;
+    font-weight: bold;
+
+}
+/* gallery */
+
+
+.gallery{
+    text-align: center;
+    margin-top: 5%;
+}
+.gallery p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    color: #878787;
+    letter-spacing: 3px;
+    padding: 2%;
+}
+.gallery h1{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+
+/* team */
+.team{
+    background-image: url(../images/team.jpg);
+    color: #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+}
+.carousel-item >img{
+    width: 30% !important;
+    float: left;
+    padding: 9% 2%;
+}
+.carousel-item h3{
+    padding-top: 6%;
+}
+.carousel-item p{
+    color: gainsboro;
+    padding: 1%;
+    font-size: 14px;
+    line-height: 2;
+}
+.carousel-item a{
+    color: #eeffe3;
+    text-decoration: none;
+}
+.carousel-inner{
+padding: 0 15%;
+}
+.client-content{
+    padding: 8%;
+}
+/* map */
+
+.loc{
+    display: block;
+}
+
+.map-content{
+  
+    text-align: center;
+    float: left;
+
+    color: #444444;
+}
+.map-content h2{
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 2%;
+    margin-top: 5%;
+}
+.map-content p{
+    line-height: 2;
+    font-size: 20px;
+
+}
+.map-img>img{
+    width: 100%;
+}
+.map-img{
+ 
+  float: left;
+}
+.map-img-2{
+
+}
+/* footer */
+
+.footer{
+    margin-top: 5%;
+    background-color: #70b046;
+
+}
+.footer h2{
+    color: #00580b;
+    font-weight: 700;
+    padding: 5% 0;
+}
+.ft-contact{
+
+    color: aliceblue;
+    text-align: left;
+    font-size: 18px;
+    padding: 2%;
+}
+.ft-contact .fa{
+    color: aliceblue;
+    float: left;
+    padding: 2% 5%;
+    }
+.ft-contact :hover{
+    opacity:0.5 ;
+    color: antiquewhite;
+    }
+
+.ft-time li{
+    list-style: none;
+    text-align: left;
+    padding: 2%;
+}
+.ft-time li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.ft-img >img{
+    width: 100%;
+    float: left;
+    margin: 8%;
+}
+.footer-p{
+    color: #fff;
+    text-align: center;
+}
+
+
